@@ -1,4 +1,4 @@
-# 🕒 Digital-Clock
+# 🕒 Digital Clock
 A responsive **Digital Clock** built using **HTML**, **CSS**, and **JavaScript** with a modern **glassmorphism effect**. It displays the **current time (hours, minutes, seconds)** along with the **day** and **date**, updated in real time. The project also uses **Ionicons** for icons and features a minimalist, soft-glow UI inspired by modern dashboards.
 
 # ✨ Features
