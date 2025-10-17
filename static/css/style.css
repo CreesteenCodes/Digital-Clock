@@ -57,6 +57,7 @@ body {
     color: #00ff99;
 }
 
+/* Responsive Design */
 @media (max-width: 400px) {
     .clock-container {
     width: 90%;
@@ -65,4 +66,5 @@ body {
     .time {
     font-size: 1.5rem;
     }
+
 }
